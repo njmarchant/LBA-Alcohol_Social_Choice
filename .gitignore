@@ -1,0 +1,13 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore local system files
+.DS_Store
+
+# Ignore large data directories
+# (Uncomment the line below if you have a 'data' folder you want to ignore)
+# data/
