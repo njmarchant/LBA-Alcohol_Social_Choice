@@ -9,5 +9,4 @@ __pycache__/
 .DS_Store
 
 # Ignore large data directories
-# (Uncomment the line below if you have a 'data' folder you want to ignore)
-# data/
+data/
