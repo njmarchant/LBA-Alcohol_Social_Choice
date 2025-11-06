@@ -1,5 +1,4 @@
 
-
 # LBA-Alcohol_Social_Choice
 LBA Model scripts in python used to model decision-making in choice between alcohol and social reward. Used in paper titled "Anterior insula activity during alcohol and social reward self-administration and choice in male and female rats" Submitted October, 2025
 
@@ -65,7 +64,8 @@ To run the analysis, please download the data and place it in a folder named `/d
 
 ## ✍️ Authors & Citation
 
-This code was primarily written by Nathan Marchant
+This code was primarily written by Nathan Marchant. 
+The logical structure, custom PyMC log-likelihood, and documentation were refined through collaboration with Google's Gemini, which served as a thought partner and coding assistant.
 
 If you use this code or the findings from our paper, please cite the original publication:
 
