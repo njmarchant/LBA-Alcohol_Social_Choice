@@ -3,7 +3,7 @@
 LBA Model scripts in python used to model decision-making in choice between alcohol and social reward. Used in paper titled "Anterior insula activity during alcohol and social reward self-administration and choice in male and female rats" Submitted October, 2025
 
 > **Associated Publication:**
-> DOI coming
+> DOI: https://doi.org/10.1523/JNEUROSCI.1180-25.2026
 
 This repository contains the analysis code and figures for the publication listed above. 
 1. The primary analysis is conducted in the `1_model_build` Jupyter Notebook.
@@ -68,7 +68,9 @@ This code was primarily written by Nathan Marchant.
 The logical structure, custom PyMC log-likelihood, and documentation were refined through collaboration with Google's Gemini, which served as a thought partner and coding assistant.
 
 If you use this code or the findings from our paper, please cite the original publication:
-
+Anterior Insula Activity during Alcohol and Social Reward Self-Administration and Choice in Male and Female Rats
+Yvar van Mourik, Dustin Schetters, Ilse Bassie, Mohamad El Samadi, Huibert D. Mansvelder, Taco J. De Vries, Nathan J. Marchant
+Journal of Neuroscience 1 April 2026, 46 (13) e1180252026;
 
 ### Acknowledgments
 
